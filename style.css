@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
 
+
 body {
   background-color:'black';
   width: 100%;
@@ -11,7 +12,10 @@ body {
   /* font-family: 'VT323', monospace*/
   font-family: 'Crimson Text', serif;
 }
-
+/* 
+#bgm{
+  display: none;
+} */
 .menu {
   margin-top: 100px;
   width: 50%;
